@@ -1,0 +1,38 @@
+
+BicingStats
+
+Alejandro Carol Camprecios
+Enginyer Backend, SocialPoint
+joe@example.com
+@alexcarolc
+
+#parlar de qui sóc?
+* Índex
+- Motivació
+- Tecnologia
+
+* Motivació
+- usuari habitual de bicing
+
+* Stack
+.image assets/diagrama.png _ 1000
+
+* Llenguatges
+- Go
+- R
+- Java
+
+* Llenguatges - Go
+.code assets/api.go /^func main/,/^}/
+
+* Llenguatges - R
+.code assets/fitCalculator.R /^query/,/^pBikeFit/
+
+
+* Llenguatges - Java
+
+
+* Infraestructura
+- DigitalOcean
+- Docker
+- MySQL
